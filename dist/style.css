@@ -46,6 +46,15 @@ header {
   height: 20px;
 }
 
+.logoText{
+  z-index: 2;
+  float: left;
+  position: relative;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: white;
+}
+
 nav.desktop {
   float: right;
 }
